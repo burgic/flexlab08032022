@@ -1,0 +1,12 @@
+.popular {
+    display: flex;
+
+}
+
+.image-fav {
+    border: 1px solid white;
+    flex: 33%;
+    margin: 0px;
+    height: 100px;;
+    padding: 5px;
+}

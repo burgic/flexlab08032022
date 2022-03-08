@@ -1,0 +1,10 @@
+.testimonial-area {
+    background-color: grey;
+    display: flex;
+    padding: 30px;
+    list-style: none;
+}
+
+.test-image {
+    border-radius: 50px;
+}
